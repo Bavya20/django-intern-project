@@ -8,6 +8,13 @@ A Django backend project with:
 - Telegram Bot Integration (/start command saves user) ✅
 
 ---
+## 🖼️ Admin Panel Preview
+
+### ✅ Telegram Users in Admin
+![Telegram Admin Screenshot 1](screenshots/telegram-admin-1.png)
+
+### ✅ Django Admin Dashboard
+![Telegram Admin Screenshot 2](screenshots/telegram-admin-2.png)
 
 ## 🚀 How to Run Locally
 
