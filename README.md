@@ -15,6 +15,10 @@ A Django backend project with:
 
 ### ✅ Django Admin Dashboard
 ![Telegram Admin Screenshot 2](screenshots/telegram-admin-2.png)
+### Telegram Chat Bot in Action
+
+![Telegram Chat](screenshots/telegram_chat_bot.png)
+
 
 ## 🚀 How to Run Locally
 
