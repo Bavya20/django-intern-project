@@ -6,4 +6,4 @@ class Command(BaseCommand):
 
     def handle(self, *args, **kwargs):
         check_telegram_messages()
-        self.stdout.write("✔ Telegram checked.")
+        self.stdout.write(self.style.SUCCESS("✔ Telegram checked."))
